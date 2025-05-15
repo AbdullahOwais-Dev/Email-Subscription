@@ -1,5 +1,5 @@
 # Email Subscription System
-
+ 
 This is a simple email subscription system that allows users to enter their email addresses to subscribe to updates. The system securely stores emails using Google Sheets via Google Apps Script.
 
 ## Features
